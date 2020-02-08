@@ -1,0 +1,7 @@
+*.o
+vgcore.*
+!*.{cpp,hpp,h}
+lab05
+tests
+build
+!build/Makefile
